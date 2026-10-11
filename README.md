@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Adit katiyar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi101-coder&label=Profile%20views&color=0e75b6&style=flat" alt="adi101-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi101-coder" alt="adi101-coder" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adi101-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/adit_katiyar" target="blank"><img src="https://img.shields.io/twitter/follow/adit_katiyar?logo=twitter&style=for-the-badge" alt="adit_katiyar" /></a> </p>
+<p align="left">
+  <a href="https://github.com/adi101-coder">
+    <img src="https://img.shields.io/badge/GitHub-adi101--coder-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://x.com/adit_katiyar">
+    <img src="https://img.shields.io/badge/Follow-@adit__katiyar-black?style=for-the-badge&logo=x" alt="Follow on X" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Resumebuild**
 
